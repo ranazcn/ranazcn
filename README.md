@@ -1,4 +1,4 @@
-## Hi there 👋
+## Merhabalar! 👋
 
 Merhaba ben Rana.
 İstanbul Üniversitesi Yönetim Bilişim Sistemleri bölümünde 2. sınıfım
